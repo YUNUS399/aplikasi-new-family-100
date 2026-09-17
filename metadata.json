@@ -1,0 +1,6 @@
+{
+  "name": "New Famili 100",
+  "description": "Aplikasi game show New Famili 100 interaktif dengan papan survei khas TV, efek suara studio, babak rebutan, curi poin, dan babak bonus Top Survey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
